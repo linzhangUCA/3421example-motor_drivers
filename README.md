@@ -7,5 +7,5 @@ This repo contains Micropython examples of driving [geared DC motors](https://ww
 3. [sensored_motor_driver.py](sensored_motor_driver.py) drives a single motor as well as read encoder's signals with 2 extra Pico's GP pins.
 4. [sensored_dual_motor_driver.py](sensored_dual_motor_driver.py) drives two motors as well as read encoders' signals with 4 extra Pico's GP pins.
 
-## PCB Wiring
-![wiring](images/pcb_wiring.png)
+## Pico Wiring
+![pico_wiring](images/pico_wiring.png)
